@@ -1,0 +1,31 @@
+.my-photo {
+    background-image: url("https://coderinyou.github.io/images/background.jpg");
+    /* Set a specific height */
+    /*min-height: 100px; */
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: orchid;
+}
+
+.my-hr{
+
+    max-width: 40px;
+    min-height: 20px;
+    background-color: purple;
+  
+}
+
+hr {
+    color: #ed1d61;
+    background-color: purple;
+}
+
+button {
+    background-color: orangered;
+}

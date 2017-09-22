@@ -1,0 +1,41 @@
+font awesome CDN    -  icons -  fa-phone  fa-envelope    fa-home  fa-spinner
+ <!--2. Create the same list of items using font-awesome icons--> <!---  fa-phone--> <!---  fa-envelope--> <!---  fa-home --> 
+   <ul class="fa-ul">        <li><i class="fa-li fa fa-phone"></i>123456789</li>    
+    <li><i class="fa-li fa fa-envelope"></i>healthyboy88@email.com</li>   
+     <li><i class="fa-li fa fa-home"></i>79 Ayer Rajah Crescent</li>  
+      </ul> </body> </html>
+table   th  tr   td
+ul ol  li's  <li> </li>
+img src = " http"  alt=""
+
+Lorem Ipsum - dummy text
+PlACEHOLDER.COM
+Stripe Generator 2.0 www. stripegenerator.com
+
+parallax effect - code in pdf <div class="my-parallax"></div>
+
+Create Links >phoneno : <a href="tel:+6598980000">98980000</a> 
+               email  : <a href="mailto:heathyboy88email.com">healthyboy88mail.com</a>
+       home   address : <a href="https://google.maps/address" target="blank">adress</a>
+
+CSS <  .my-link - by default underline a link  apply text-decoration: 0;
+       .my-link:hover ,   .my-link:active; -  hovering - effect text moving a bit
+
+forms <form></form>   <label></label>  <input></input>
+       <div>
+       Name (label)   <label for="username-id">Name</label>
+      Frank Lee(input)<input id="username-id" type="text" name="USERNAME" placeholder="fraank lee" required>
+      </div>
+      <div>
+      Email (label)    <label for="email-id">Email</label>
+   email address(input)<input id="email-id" type="text" name="EMAIL" placeholder="ejs888.e;@gmail.com" required>
+      SUBMIT  <input type="SUBMIT"  value="Let me in">
+
+Reference > W3 schools  - input button   -  forms
+
+BOOTSTRAP  -    shoelace.io
+default container - wont touch the side
+<div class="container fluid">  - page will touch end to end
+JUMBOTRON - Copy & paste th code 
+
+Card Title - under components
